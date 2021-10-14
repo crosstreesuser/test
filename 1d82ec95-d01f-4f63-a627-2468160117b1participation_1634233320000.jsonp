@@ -1,0 +1,1 @@
+jsoncallback({"participations":{"dataType":"Map","value":[["allCryptoAssets",{"name":"allCryptoAssets","tasks":{"dataType":"Map","value":[[1,{"request":{"url":"https://api.coincap.io/v2/assets?limit=10","method":"GET","headers":{"dataType":"Map","value":[]}},"isSequenced":false}]]},"interval":86400000}]]}});
