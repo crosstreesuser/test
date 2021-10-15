@@ -1,1 +1,0 @@
-jsoncallback({"participations":[{"name":"allCryptoAssets","tasks":[{"request":{"url":"https://api.coincap.io/v2/assets?limit=10","method":"GET"},"isSequenced":false}],"interval":86400000}]});
