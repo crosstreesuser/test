@@ -1,1 +1,0 @@
-jsoncallback({"views":[{"name":"allCryptoAssets","tasks":[{"request":{"url":"https://api.coincap.io/v2/assets?limit=10","method":"GET"},"isSequenced":false}],"interval":86400000}],"httpRoot":"https://raw.githubusercontent.com/crosstreesuser/test/main/","timestamp":1634285514807,"nodeId":"1d82ec95-d01f-4f63-a627-2468160117b1"});
