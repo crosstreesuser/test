@@ -18,6 +18,11 @@
     a.text = "download";
     a.href = url;
     a.download = "example2.html"; // Set the desired filename
+    
+    // Append the anchor to the body, trigger the download, and remove the anchor
+    document.body.appendChild(a);
+    
+    
 //    let script = document.createElement("script");
 //script.type = "text/javascript";
 //script.src = "test1231231232.js";
